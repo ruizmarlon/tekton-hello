@@ -15,7 +15,8 @@ spec:
   type: git
   params:
     - name: revision
-      value: main
+      # value: main
+      value: master
     - name: url
       # value: https://github.com/BrianMMcClain/sinatra-hello-world
       value: https://github.com/mirantis-field/simple-nginx
