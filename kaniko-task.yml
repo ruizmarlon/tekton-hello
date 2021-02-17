@@ -17,7 +17,7 @@ spec:
     - name: revision
       value: main
     - name: url
-      value: https://github.com/BrianMMcClain/mr2-hello-world
+      value: https://github.com/BrianMMcClain/sinatra-hello-world
 
 ---
 apiVersion: tekton.dev/v1alpha1
